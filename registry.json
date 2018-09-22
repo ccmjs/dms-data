@@ -1,8 +1,52 @@
 [
   {
-    "metadata": "https://ccmjs.github.io/dms-data/data/2fa738e7-8f4b-42e7-9819-5e34e78127c9.json"
+    "metadata": {
+      "metaFormat": "ccm-meta",
+      "metaVersion": "1.0.0",
+      "title": "HTML Quiz",
+      "version": "2.1.1",
+      "creator": "André Kless",
+      "subject": "Webdev",
+      "description": "Quiz über HTML",
+      "date": "2018-06-27",
+      "format": "application/json",
+      "identifier": "2fa738e7-8f4b-42e7-9819-5e34e78127c9",
+      "path-component": "https://ccmjs.github.io/akless-components/quiz/versions/ccm.quiz-2.1.1.js",
+      "path-config": "https://ccmjs.github.io/akless-components/quiz/resources/configs.js",
+      "config-key": "test",
+      "language": "de",
+      "license": {
+        "software": "MIT"
+      },
+      "tags": "HTML, Education",
+      "category": "Computer Science",
+      "bloomTaxonomy": "Remember"
+    },
+    "metadataURL": "https://ccmjs.github.io/dms-data/data/2fa738e7-8f4b-42e7-9819-5e34e78127c9.json"
   },
   {
-    "metadata": "https://ccmjs.github.io/dms-data/data/73a250ae-6979-45fe-a3ba-5c99be76d66f.json"
+    "metadata": {
+      "metaFormat": "ccm-meta",
+      "metaVersion": "1.0.0",
+      "title": "Business Fill-in-the-Blank",
+      "version": "4.1.0",
+      "creator": "André Kless",
+      "subject": "Business",
+      "description": "Business text",
+      "date": "2018-06-27",
+      "format": "application/json",
+      "identifier": "73a250ae-6979-45fe-a3ba-5c99be76d66f",
+      "path-component": "https://ccmjs.github.io/akless-components/cloze/versions/ccm.cloze-4.1.0.js",
+      "path-config": "https://ccmjs.github.io/akless-components/cloze/resources/configs.js",
+      "config-key": "demo",
+      "language": "en",
+      "license": {
+        "software": "MIT"
+      },
+      "tags": "Education",
+      "category": "Economy",
+      "bloomTaxonomy": "Remember"
+    },
+    "metadataURL": "https://ccmjs.github.io/dms-data/data/73a250ae-6979-45fe-a3ba-5c99be76d66f.json"
   }
 ]
